@@ -1,0 +1,8 @@
+Please launch the .RData file first to open our project and connect our table.
+Then you can start launching R scripts.If there is a problem with calculation functions 
+you can find all of them on the "calculation functions" folder.Please launch them first.
+Then you can start with first project.We make a order like  for example Q1A is question 1 "a" option.
+Second project order is same like first one.
+
+
+THANK YOU FOR YOU TIME...
